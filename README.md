@@ -1,8 +1,7 @@
 <h1> Hi I'm Aymaan </h1>
 
 
-<p><em>A bachelor student at <a href="https://hogent.be">University College Ghent</a>, majoring in Computer Science. 😊</br>
-</em></p>
+<p><em>I'm a freshman majoring in Computer Science at the <a href="https://uml.edu/">University of Massachusetts Lowell</a></em></p>
 
 
 ```javascript
