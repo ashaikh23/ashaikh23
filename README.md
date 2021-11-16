@@ -7,23 +7,18 @@
 ```javascript
 const aboutMe = {
    pronouns: "he" | "him",
-   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, Kotlin, Swift],
+   code: [Javascript, Typescript, HTML, CSS, Python, Java, CSharp, C, Swift, C++],
    technologies: {
-      frontEnd: {
-         js: ["React", "Angular"],
-         css: ["Materialize", "Bulma", "Bootstrap", "Material Design", "Semantic UI"]
-      },
-      backEnd: {
-         java: ["Spring"],
+      languages:
          js: ["Node", "Express"],
          csharp: ["Asp.net Core"],
          misc: ["Bash", "Puppeteer", "Selenium", "Cypress"]
       },
       databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "IOS"]
+      mobile: ["Android", "iOS"]
    },
-   currentOccupation: ["last year student, open for job opportunities"],
-   challenge: "I'm working towards being able to run a marathon.",
+   currentOccupation: ["first year student, open for job opportunities"],
+   challenge: "I'm working towards being able to walk really fast.",
 };
 ```
 </br></br>
@@ -32,4 +27,3 @@ const aboutMe = {
 ![Aymaan's github stats](https://github-readme-stats.vercel.app/api?username=ashaikh23&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ---
-
