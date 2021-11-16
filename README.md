@@ -23,7 +23,7 @@ const aboutMe = {
 ```
 </br></br>
 <h2>💻 Some stats 💻</h2>
-
+<img src="https://media1.giphy.com/media/HV0tHmPREaD0sIixmg/giphy.gif">
 ![Aymaan's github stats](https://github-readme-stats.vercel.app/api?username=ashaikh23&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515)
 
 ---
