@@ -8,14 +8,8 @@
 const aboutMe = {
    pronouns: "he" | "him",
    code: [Javascript, HTML, CSS, Python, Java, CSharp, C, Swift, C++],
-   technologies: {
-      languages:
-         js: ["Node"],
-         csharp: ["Asp.net Core"],
-         misc: ["Bash", "Puppeteer", "Selenium"]
-      },
-      databases: ["MongoDB", "mySQL", "SQLServer"],
-      mobile: ["Android", "iOS"]
+   databases: ["mySQL", "SQL"],
+   mobile: ["Android", "iOS"]
    },
    currentOccupation: ["first year student, open for job opportunities"],
    challenge: "I'm working towards being able to make beautiful code.",
