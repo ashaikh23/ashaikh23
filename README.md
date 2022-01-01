@@ -1,7 +1,7 @@
-<h1> Hi I'm Aymaan </h1>
+<h1> Hi I'm Aymaan :)</h1>
 
 
-<p><em>I'm a freshman majoring in Computer Science at the <a href="https://umass.edu/">University of Massachusetts</a>.</em></p>
+<p><em>A freshman majoring in Computer Science at the <a href="https://umass.edu/">University of Massachusetts</a>.</em></p>
 
 
 ```javascript
