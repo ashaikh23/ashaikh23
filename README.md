@@ -27,6 +27,6 @@ const aboutMe = {
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashaikh23&layout=compact)](https://github.com/ashaikh23/github-readme-stats)
 
 [website]: https://ashaikh23.github.io
-[twitter]: https://twitter.com/ashaikh23
+[twitter]: https://twitter.com/aymaans23
 [instagram]: https://instagram.com/aymaanshaikh23
 [linkedin]: https://linkedin.com/in/aymaan-shaikh
