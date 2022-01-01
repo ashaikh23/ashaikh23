@@ -27,3 +27,8 @@ const aboutMe = {
 ![Aymaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashaikh23&show_icons=true&theme=dark)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashaikh23&layout=compact)](https://github.com/ashaikh23/github-readme-stats)
 
+[website]: https://codeSTACKr.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
+[instagram]: https://instagram.com/codeSTACKr
+[linkedin]: https://linkedin.com/in/codeSTACKr
