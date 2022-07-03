@@ -27,6 +27,8 @@ const aboutMe = {
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashaikh23&langs_count=12&theme=tokyonight&layout=compact" alt="AnhellO :: Top Langs" /></p>
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true)
+
 [website]: https://ashaikh23.github.io
 [twitter]: https://twitter.com/aymaans23
 [instagram]: https://instagram.com/aymaanshaikh23
