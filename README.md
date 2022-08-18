@@ -10,7 +10,7 @@ const aboutMe = {
    databases: ["mySQL", "SQL"],
    mobile: ["Android", "iOS"]
    },
-   currentOccupation: ["first year student, open for job opportunities"],
+   currentOccupation: ["second year student, open for job opportunities"],
    challenge: "I'm working towards being able to make beautiful code.",
 };
 ```
