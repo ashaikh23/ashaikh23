@@ -6,7 +6,6 @@
 
 ```javascript
 const aboutMe = {
-   pronouns: "he" | "him",
    code: [Javascript, HTML, CSS, Python, Java, CSharp, C, Swift, C++],
    databases: ["mySQL", "SQL"],
    mobile: ["Android", "iOS"]
