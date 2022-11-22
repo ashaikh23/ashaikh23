@@ -11,7 +11,7 @@ const aboutMe = {
    mobile: ["Android", "iOS"]
    },
    currentOccupation: ["second year student, open for job opportunities"],
-   challenge: "I'm working towards being able to make beautiful code.",
+   challenge: "I'm working towards making beautiful code.",
 };
 ```
 ### Connect with me:
