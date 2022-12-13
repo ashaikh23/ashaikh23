@@ -1,7 +1,7 @@
 <h1> Hi I'm Aymaan :)</h1>
 
 
-<p><em>A rising sophomore majoring in Computer Science at the <a href="https://umass.edu/">University of Massachusetts Amherst</a>.</em></p>
+<p><em>A student majoring in Computer Science at the <a href="https://umass.edu/">University of Massachusetts Amherst</a>.</em></p>
 
 
 ```javascript
