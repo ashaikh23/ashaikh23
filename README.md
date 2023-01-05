@@ -6,7 +6,7 @@
 
 ```javascript
 const aboutMe = {
-   code: [Javascript, HTML, CSS, Python, Java, CSharp, C, Swift, C++],
+   code: [Javascript, HTML, CSS, Python, Java, C, Swift, C++],
    databases: ["mySQL", "SQL"],
    mobile: ["Android", "iOS"]
    },
