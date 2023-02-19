@@ -8,8 +8,7 @@
 const aboutMe = {
    code: [Javascript, HTML, CSS, Python, Java, C, Swift, C++],
    databases: ["mySQL", "SQL"],
-   mobile: ["Android", "iOS"]
-   },
+   platforms: ["Android", "iOS"],
    currentOccupation: ["student"],
    challenge: "I'm working towards making beautiful code.",
 };
