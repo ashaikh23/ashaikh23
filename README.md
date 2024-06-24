@@ -17,9 +17,6 @@ const aboutMe = {
 [<img align="left" alt="asahikh23 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="ashaikh23 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-</br></br>
-![Aymaan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ashaikh23&show_icons=true&theme=dark)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ashaikh23&layout=compact&langs_count=10)](https://github.com/ashaikh23/github-readme-stats)
 
 
 [website]: https://ashaikh23.github.io
