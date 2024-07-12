@@ -1,6 +1,7 @@
 <h1>Hi, I'm Aymaan 🐧</h1>
 
 <p><em>A student majoring in Computer Science & Mathematics at the <a href="https://www.cics.umass.edu/">University of Massachusetts Amherst</a>.</em></p>
+<p>Tech enthusiast, open-source advocate, versatilist</p>
 
 ### About Me
 - 🖥️ **Coding languages**: Python, Java, C, C++, Swift, React, JavaScript, TypeScript, HTML, CSS
