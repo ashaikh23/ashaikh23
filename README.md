@@ -1,4 +1,4 @@
-<h1>Hi, I'm Aymaan <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif"</h1>
+<h1>Hi, I'm Aymaan</h1>
 
 <p><em>A student majoring in Computer Science & Mathematics at the <a href="https://www.cics.umass.edu/">University of Massachusetts Amherst</a>.</em></p>
 
