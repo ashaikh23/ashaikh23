@@ -5,7 +5,7 @@
 ### About Me
 - 🖥️ **Coding languages**: Python, Java, C, C++, Swift, React, JavaScript, TypeScript, HTML, CSS
 - 💾 **Databases**: MySQL, SQL, MongoDB, PostgreSQL
--   ☁️☁️**Cloud Technologies**: 
+- ☁️ **Cloud Technologies**: Amazon Web Services (AWS)	, Microsoft Azure, Google Cloud Platform (GCP), IBM Cloud
 - 📱 **Platforms**: Android, iOS
 - 🚀 **Challenge**: I'm working towards making beautiful code.
 
