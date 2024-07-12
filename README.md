@@ -3,7 +3,7 @@
 <p><em>A student majoring in Computer Science & Mathematics at the <a href="https://www.cics.umass.edu/">University of Massachusetts Amherst</a>.</em></p>
 
 ### About Me
-- 🖥️ Coding languages: JavaScript, HTML, CSS, Python, Java, C, Swift, C++
+- 🖥️ **Coding languages**: JavaScript, HTML, CSS, Python, Java, C, Swift, C++
 - 💾 Databases: MySQL, SQL
 - 📱 Platforms: Android, iOS
 - 🎓 Current Occupation: Student
