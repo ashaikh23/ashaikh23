@@ -1,7 +1,6 @@
 <h1>Hi, I'm Aymaan 🐧</h1>
 
-<p><em>A student majoring in Computer Science (AI / Machine Learning) at <a href="https://www.cs.cornell.edu/">Cornell University</a>.</em></p>
-<p><em>Prev: B.S. in Computer Science at the <a href="https://www.cics.umass.edu/">University of Massachusetts Amherst</a>.</em></p>
+<p><em>A student majoring in Computer Science (AI / ML) at <a href="https://www.cs.cornell.edu/">Cornell University</a>.</em></p>
 <p>Tech enthusiast, open-source advocate, versatilist.</p>
 
 ### About Me
